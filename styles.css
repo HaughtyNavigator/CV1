@@ -1,0 +1,124 @@
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    font-weight: bold;
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+    color: #11999E;
+}
+p{
+    font-family: 'Montserrat',sans-serif;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+    color: #40514E;
+}
+
+.first-container{
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position: relative;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin-bottom: none;
+    padding: 50px;
+}
+.cloudz1{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.cloudz2{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.mountainz{
+    width: 350px;
+    height: 350px;
+}
+.cam{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.computer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-row{
+    
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.bio-text{
+    width: 50%;
+    padding-bottom: 100px;
+    margin: auto ;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+    }
+.btn{
+    background-color: #66BFBF;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 10px;
+    margin: 50px;
+}
+.btn:hover{
+    background-color: #EAF6F6;
+    color: #66BFBF;
+}
+a{
+    color: #11999E;
+    padding: 30px;
+    font-family: 'Montserrat',sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.lastone{
+    color: white;
+    padding: 20px 0px;
+}
+.myphoto{
+    padding-top: 50px;
+    height: 15%;
+    width: 15%;
+}
+.contact-me{
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
